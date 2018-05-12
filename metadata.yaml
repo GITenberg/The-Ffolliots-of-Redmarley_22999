@@ -1,0 +1,29 @@
+_repo: The-Ffolliots-of-Redmarley_22999
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harker, L. Allen (Lizzie Allen)
+    alias: Harker, Lizzie Allen
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '25641'
+    url: http://www.gutenberg.org/2009/agents/25641
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+title: The Ffolliots of Redmarley
+url: http://www.gutenberg.org/ebooks/22999
